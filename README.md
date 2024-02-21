@@ -4,45 +4,45 @@ The Plasma Blood Bank Management System is a software solution designed to strea
 
 ## Features:
 
-# Donor Management:
+### Donor Management:
 
 - Capture and store donor information including name, ID, blood type, date of birth, age, sex, contact details, and address.
 - Callculate and display donor age based on the date of birth.
 - Add new donor information to the database.
 
-# Plasma Donation Management:
+### Plasma Donation Management:
 
 - Record plasma donation details such as donor ID, date of donation, and plasma bag number.
 - Add new plasma donations to the system.
 
-# Recipient Management:
+### Recipient Management:
 
 - Enter recipient details including name, ID, blood type, quantity needed, date of request, age, sex, and address.
 - Manage recipient information and requirements for plasma transfusion.
 
-# Staff Management:
+### Staff Management:
 
 - Hire new staff members by providing employee details such as name, ID, supervisor, address, salary, and contact number.
 - Supervisors can view employees under their supervision.
 
-# Blood Sample Management:
+### Blood Sample Management:
 
 - Add new plasma samples to the inventory.
 - Delete plasma samples from the inventory as needed.
 - Update the cost of plasma bags.
 
-# Transaction Tracking:
+### Transaction Tracking:
 
 - Record transaction details such as transaction ID, payment amount, and transaction time.
 - Track payment transactions for efficient financial management.
 
-# Inventory Management:
+### Inventory Management:
 
 - View total plasma donated.
 - Calculate and display the total plasma available in the inventory.
 - View plasma inventory based on blood type.
 
-# User Authentication:
+### User Authentication:
 
 - Secure login system with username and password authentication.
 - Prevent unauthorized access to the system.
