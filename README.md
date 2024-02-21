@@ -1,5 +1,5 @@
 # PlasmaBloodBank
-DBMS for plasma blood bank, contains various functionalities,done as a course project of Data and Applications | Monsoon 2020
+DBMS for plasma blood bank, contains various functionalities,done as a course project of Database Management Systems
 
 
 ## Functionalities:
