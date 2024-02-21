@@ -1,15 +1,6 @@
 # PlasmaBloodBank
 DBMS for plasma blood bank, contains various functionalities,done as a course project of Data and Applications | Monsoon 2020
 
-## USAGE
-Load the database file:
-
-mysql -u <username> -p
-source PlasmaBank.sql;
-
-For using the python code :
-
-python3 PlasmaBank.py
 
 ## Functionalities:
 
